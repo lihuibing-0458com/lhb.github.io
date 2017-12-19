@@ -339,8 +339,9 @@
  }
  
  .swiper-slide.three .center .two-op-2 {
-     width: 78%;
-     height: 63%;
+         width: 78%;
+    height: 54%;
+    margin-top: -4%;
  }
  
  .swiper-slide.three .bottom {
