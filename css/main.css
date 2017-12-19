@@ -331,7 +331,7 @@
  }
  
  .swiper-slide.three .center .two-p {
-     font-size: 18px;
+     font-size: 20px;
      font-family: cursive;
      width: 80%;
      margin-left: 10%;
@@ -339,9 +339,9 @@
  }
  
  .swiper-slide.three .center .two-op-2 {
-         width: 78%;
-    height: 54%;
-    margin-top: -4%;
+     width: 78%;
+     height: 54%;
+     margin-top: -4%;
  }
  
  .swiper-slide.three .bottom {
@@ -698,15 +698,14 @@
  }
  
  .swiper-slide.sever .center .six-input-3 {
-    width: 36%;
-    height: 11%;
-    margin-top: 7%;
-    /* color: #fff; */
-    margin-left: 32%;
-    background-color: #f5149f;
-     
-    color: #fff;
-    line-height: 41px;
+     width: 36%;
+     height: 11%;
+     margin-top: 7%;
+     /* color: #fff; */
+     margin-left: 32%;
+     background-color: #f5149f;
+     color: #fff;
+     line-height: 41px;
  }
  
  .swiper-slide.sever .center .p .six-p-1 {
