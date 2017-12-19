@@ -586,7 +586,7 @@
  
  .swiper-slide.six .center .zhu .five--img-1 {
      width: 42%;
-     margin-left: -4%;
+     margin-left: 0%;
  }
  
  .swiper-slide.six .center .zhu .five--img-2 {
@@ -698,14 +698,15 @@
  }
  
  .swiper-slide.sever .center .six-input-3 {
-     width: 36%;
-     height: 11%;
-     margin-top: 7%;
-     /* color: #fff; */
-     margin-left: 32%;
-     background-color: #f5149f;
-     color: #fff;
-     line-height: 41px;
+    width: 36%;
+    height: 8%;
+    margin-top: 2%;
+    /* color: #fff; */
+    margin-left: 32%;
+    background-color: #f5149f;
+    color: #fff;
+    line-height: 25px;
+    font-size: 15px;
  }
  
  .swiper-slide.sever .center .p .six-p-1 {
