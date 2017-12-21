@@ -698,15 +698,15 @@
  }
  
  .swiper-slide.sever .center .six-input-3 {
-    width: 36%;
-    height: 8%;
-    margin-top: 2%;
-    /* color: #fff; */
-    margin-left: 32%;
-    background-color: #f5149f;
-    color: #fff;
-    line-height: 25px;
-    font-size: 15px;
+     width: 36%;
+     height: 8%;
+     margin-top: 2%;
+     /* color: #fff; */
+     margin-left: 32%;
+     background-color: #f5149f;
+     color: #fff;
+     line-height: 25px;
+     font-size: 15px;
  }
  
  .swiper-slide.sever .center .p .six-p-1 {
