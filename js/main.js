@@ -36,7 +36,7 @@
          else {
              tupian.style.animation = "div1 0.5s 0.5s linear infinite";
              beijing.style.display = "block";
-             audio.play();
+           audio.play();
              flag = 1;
          }
      }
